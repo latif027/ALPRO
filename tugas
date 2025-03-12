@@ -1,0 +1,5 @@
+a = int(input('Masukan angka : '))
+b = int(input('Masukan angka : '))
+total = a + b 
+print ("Hasil penjumlahan",total)
+print ("------------------------")
